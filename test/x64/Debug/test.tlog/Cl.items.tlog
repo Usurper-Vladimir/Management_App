@@ -1,0 +1,17 @@
+C:\Users\khird\source\repos\test\test\AssemblyInfo.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\AssemblyInfo.obj
+C:\Users\khird\source\repos\test\test\CL_CAD.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\CL_CAD.obj
+C:\Users\khird\source\repos\test\test\GestionClient.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\GestionClient.obj
+C:\Users\khird\source\repos\test\test\GestionCommande.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\GestionCommande.obj
+C:\Users\khird\source\repos\test\test\GestionPersonnel.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\GestionPersonnel.obj
+C:\Users\khird\source\repos\test\test\GestionStock.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\GestionStock.obj
+C:\Users\khird\source\repos\test\test\mapAdresse.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mapAdresse.obj
+C:\Users\khird\source\repos\test\test\mapContenir.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mapContenir.obj
+C:\Users\khird\source\repos\test\test\mappArticle.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mappArticle.obj
+C:\Users\khird\source\repos\test\test\mappClient.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mappClient.obj
+C:\Users\khird\source\repos\test\test\mappCommande.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mappCommande.obj
+C:\Users\khird\source\repos\test\test\mappPaiement.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mappPaiement.obj
+C:\Users\khird\source\repos\test\test\mappPersonnel.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\mappPersonnel.obj
+C:\Users\khird\source\repos\test\test\MyForm.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\MyForm.obj
+C:\Users\khird\source\repos\test\test\pch.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\pch.obj
+C:\Users\khird\source\repos\test\test\test.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\test.obj
+C:\Users\khird\source\repos\test\test\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp;C:\Users\khird\source\repos\test\test\x64\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.obj

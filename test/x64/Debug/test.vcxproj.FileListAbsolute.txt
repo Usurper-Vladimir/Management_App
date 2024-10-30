@@ -1,0 +1,10 @@
+C:\Users\khird\source\repos\test\test\x64\Debug\test.vcxproj.AssemblyReference.cache
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyForm.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.vcxproj.GenerateResource.cache
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormPersonnel.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormCommande.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormClient.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormStock.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormHome.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormtest.resources
+C:\Users\khird\source\repos\test\test\x64\Debug\test.MyFormStats.resources
